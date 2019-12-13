@@ -1,14 +1,14 @@
 {
-  "name": "nodelearn",
+  "name": "node-by-mosh",
   "version": "1.0.1",
-  "description": "NodeLearn",
+  "description": "Learning Node.js",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://webila.visualstudio.com/NodeLearn/_git/NodeLearn"
+    "url": "git@github.com:hadisamadzad/node-by-mosh.git"
   },
   "author": "Hadi Samadzad",
   "license": "ISC",
