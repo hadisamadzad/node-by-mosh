@@ -1,0 +1,7 @@
+
+{
+    "name": "My NodeLearn App - Development",
+    "mail":{
+        "host": "dev-mail-server"
+        }
+}

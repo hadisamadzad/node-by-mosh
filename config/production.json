@@ -1,0 +1,7 @@
+
+{
+    "name": "My NodeLearn App - Production",
+    "mail":{
+        "host": "prod-mail-server"
+    }
+}
